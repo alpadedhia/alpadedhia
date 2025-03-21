@@ -5,13 +5,14 @@
 I'm an engineer passionate about building scalable solutions and optimizing performance. I enjoy tackling complex problems, learning new technologies, and contributing to impactful projects.  
 
 ### 🔧 Tech Stack  
-- **Languages:** Python
+- **Languages & Technologies:** Python, Generative AI
 - **Frameworks:** FastAPI, Flask, Langchain, LangGraph
 - **Databases:** PostgreSQL, Amazon DynamoDB MongoDB, Redis, Qdrant, Chroma DB  
 - **DevOps & Tools:** Docker, Kubernetes, AWS, GitHub Actions
 
 ### 💡 What I'm Working On  
-- Building efficient backend systems and APIs  
+- Building efficient backend systems and APIs
+- Building cool AI Agent solutions
 - Exploring cloud-native architectures and DevOps automation  
 
 ### 📚 Always Learning  
